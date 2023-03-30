@@ -1,7 +1,7 @@
-
+![logo](https://github.com/avi02iter/avi02iter/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aaradhy Srivastava</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/95306567/228746773-dc9555ad-9324-439a-b823-3ab31b24ac8e.gif](https://www.careerguide.com/career/wp-content/uploads/2021/04/DevOps-1024x768px.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi02iter&label=Profile%20views&color=0e75b6&style=flat" alt="avi02iter" /> </p>
 
