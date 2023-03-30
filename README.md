@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aaradhy Srivastava</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/95306567/228744712-4386b33c-c6ab-4e54-a6b6-2b8f04a8bffc.png)">
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/95306567/228746773-dc9555ad-9324-439a-b823-3ab31b24ac8e.gif](https://www.careerguide.com/career/wp-content/uploads/2021/04/DevOps-1024x768px.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi02iter&label=Profile%20views&color=0e75b6&style=flat" alt="avi02iter" /> </p>
 
