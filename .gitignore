@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+profile.jpg
+source-prepped.png
+README.backup.md
+README.backup.md
